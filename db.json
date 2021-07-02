@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "Name": "4545",
+      "number": "3515",
+      "email": "355",
+      "age": "545",
+      "state": "545",
+      "country": "5454",
+      "add": "5454",
+      "hobb": "5454",
+      "id": 2
+    },
+    {
+      "Name": "Anikert",
+      "number": "4578",
+      "email": "ani",
+      "age": "24",
+      "state": "MH",
+      "country": "IND",
+      "add": "mh",
+      "hobb": "crio",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
